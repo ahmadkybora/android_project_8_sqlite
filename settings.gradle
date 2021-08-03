@@ -1,0 +1,2 @@
+rootProject.name = "android_project_8_sqlite"
+include ':app'
